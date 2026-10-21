@@ -1,0 +1,11 @@
+========= EMPLOYEE REPORT ==========
+Generated On: Sat Jan 10 20:57:37 IST 2026
+-------------------------------------
+Employee ID: 1
+Name: ffff
+Designation: cccc
+Salary: 3400
+Email: ria@gmail.com
+Mobile: 7657017003
+Address: sre
+====================================
